@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="921dbfd1-6f4f-40ba-bdf6-0a33ae4791e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blooket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Revisao/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Revisao/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Revisao/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Revisao/TestLivro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Revisao/TesteVeiculos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Revisao/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tb2/Banco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tb2/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tb2/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Exception" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2kiNQbjxawf3AIe66lFLLkByra3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Batalha.executor": "Run",
+    "Application.BatalhaNaval.executor": "Run",
+    "Application.CERTO.executor": "Run",
+    "Application.Contato.executor": "Run",
+    "Application.Ex10.executor": "Run",
+    "Application.Ex12.executor": "Run",
+    "Application.Ex13.executor": "Run",
+    "Application.Ex14.executor": "Run",
+    "Application.Ex2.executor": "Run",
+    "Application.Ex3.executor": "Run",
+    "Application.Ex4.executor": "Run",
+    "Application.Ex5.executor": "Run",
+    "Application.Ex6.executor": "Run",
+    "Application.Ex7.executor": "Run",
+    "Application.Ex8.executor": "Run",
+    "Application.Ex9.executor": "Run",
+    "Application.Exemplo1.executor": "Run",
+    "Application.Exemplo2.executor": "Run",
+    "Application.LojaDeAnimais.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.TestLivro.executor": "Run",
+    "Application.TesteAnimais.executor": "Run",
+    "Application.TesteVeiculos.executor": "Run",
+    "Application.Zoo.executor": "Run",
+    "Java Scratch.Animais.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/andre/OneDrive/Área de Trabalho/faccat/prog_III/Aulas/lib/mysql-connector-j-8.2.0.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Aula2.exercicio" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="921dbfd1-6f4f-40ba-bdf6-0a33ae4791e8" name="Changes" comment="" />
+      <created>1723762422046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723762422046</updated>
+    </task>
+    <servers />
+  </component>
+</project>
